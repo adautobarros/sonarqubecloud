@@ -39,6 +39,8 @@ namespace Produto.Api.Controllers
                 })
                 .ToArray();
             }
+
+            return null;
         }
     }
 }
